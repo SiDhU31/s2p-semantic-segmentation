@@ -1,8 +1,8 @@
-# S2P — Semantic Segmentation Pipeline
+# S2P — Semantic Segmentation For Perception
 
 > **ResNet50 → ASPP → ResNet50-Style Decoder** trained on two datasets:
 > Pascal VOC 2012 and Syn-Mediverse (healthcare synthetic scenes).
-> Built as part of the **Neuro Nexus** autonomous hospital navigation system.
+> Built as part of autonomous hospital navigation system.
 
 ---
 
