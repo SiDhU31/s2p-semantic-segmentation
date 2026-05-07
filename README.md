@@ -62,7 +62,7 @@ git clone https://github.com/SiDhU31/s2p-semantic-segmentation.git
 cd s2p-semantic-segmentation
 
 conda create -n s2p python=3.10 -y
-conda activate s2p
+conda activate s2p ( change according to your workbench )
 ```
 
 ### 2. Install dependencies
@@ -164,7 +164,7 @@ output_synmed/experiment/    ← Syn-Mediverse outputs
 
 | Component | Spec |
 |---|---|
-| GPU | NVIDIA RTX 4060 |
+| GPU | NVIDIA RTX A4000 |
 | Framework | PyTorch |
 | OS | Ubuntu 22.04 |
 | Conda env | `s2p` (Python 3.10) |
@@ -181,10 +181,4 @@ S2P is the perception module for an autonomous hospital navigation system (Turtl
 
 **Amrita School of Engineering, Coimbatore — B.Tech Automation & Robotics, 2026**
 
-| Name | 
-|---|
-| Sidharth (CB.EN.U4ARE22046) |
-| Parvathy Vinod K V |
-| Sanjit R K |
 
-Internal Guide: Dr. G. Sivasankar | External Guide: Dr. Ankit Ravankar (Tohoku University)
